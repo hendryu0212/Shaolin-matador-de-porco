@@ -1,7 +1,9 @@
 body{
-    background-color: aqua;
+    background-color: rgba(0, 138, 138, 0.534);
+background: to top;
 }
 h1{
     font-style: italic; 
     color: green;
+    text-align: center;
 }
